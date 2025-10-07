@@ -1,0 +1,1 @@
+# smst-scoring-app
